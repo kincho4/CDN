@@ -1,0 +1,6 @@
+This chrome extension version 1.2
+has been updated. To continue
+using Sparxmaths Solver, download
+the latest version from.
+
+github.com/SintcoLTD/sparxmaths
